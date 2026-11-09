@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=mrdivaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190585590%3Fu%3Dc1615d81c241696e52c7053acd7fea1aaf0f59ff%26v%3D4" alt="mrdivaaa hero visual" />
 </p>
 
-**Trev** · Ai Engineer and Software Engineer
+**Trev** ·  Student AI and Software Engineer
 
 ## Currently learning
 
@@ -13,9 +13,9 @@ Currently exploring Python, Machine Learning, LLMs, and AI Engineering.
 
 **Learning next**
 
-- ShaderLab
-- HLSL
-- Python
+- C++
+- Javascript
+- SQL
 
 👥 **0** followers · **0** following
 
@@ -77,5 +77,3 @@ A basic 3D FPS game made with the Ursina engine in Python. No textures. Just vib
 </p>
 
 <a href="https://github.com/mrdivaaa">GitHub</a>
-
-<p align="center"><sub>Trev · <a href="https://www.gitskins.com/readme-generator?template=community-student-remix-xzws">Student Remix</a> template by <a href="https://www.gitskins.com/creators/Frost-Asnyc">@Frost-Asnyc</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=student">Student</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
