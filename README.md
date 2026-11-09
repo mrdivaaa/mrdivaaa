@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=mrdivaaa&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F190585590%3Fu%3Dc1615d81c241696e52c7053acd7fea1aaf0f59ff%26v%3D4" alt="mrdivaaa hero visual" />
 </p>
 
-**Trev** · Backend or systems engineer
+**Trev** · Ai Engineer and Software Engineer
 
 ## Currently learning
 
